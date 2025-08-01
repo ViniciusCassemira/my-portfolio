@@ -35,25 +35,25 @@
 
 <script setup>
 const icons = [
-  '/src/assets/tech/javascript.svg',
-  '/src/assets/tech/mongo.svg',
-  '/src/assets/tech/mysql.svg',
-  '/src/assets/tech/java.svg',
-  '/src/assets/tech/python.svg',
-  '/src/assets/tech/csharp.svg'
+  '/icons/javascript.svg',
+  '/icons/mongo.svg',
+  '/icons/mysql.svg',
+  '/icons/java.svg',
+  '/icons/python.svg',
+  '/icons/csharp.svg'
 ]
 const icons2 = [
-  '/src/assets/tech/heroku.svg',
-  '/src/assets/tech/aws.svg',
-  '/src/assets/tech/digitalocean.svg',
-  '/src/assets/tech/netlify.svg',
-  '/src/assets/tech/cloudflare.svg'
+  '/icons/heroku.svg',
+  '/icons/aws.svg',
+  '/icons/digitalocean.svg',
+  '/icons/netlify.svg',
+  '/icons/cloudflare.svg'
 ]
 const icons3 = [
-  '/src/assets/tech/docker.svg',
-  '/src/assets/tech/github.svg',
-  '/src/assets/tech/gitlab.svg',
-  '/src/assets/tech/linux.svg'
+  '/icons/docker.svg',
+  '/icons/github.svg',
+  '/icons/gitlab.svg',
+  '/icons/linux.svg'
 ]
 
 const duplicatedIcons = [...icons, ...icons, ...icons, ...icons]
